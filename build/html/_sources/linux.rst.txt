@@ -23,7 +23,7 @@ awk命令：awk是一种编程语言，用于在linux/unix下对文本和数据�
 grep命令：grep（global search regular expression(RE) and print out the line，全面搜索正则表达式并把行打印出来）是一种强大的文本搜索工具，它能使用正则表达式搜索文本，并把匹配的行打印出来。
 
 3.git仓库的安装与使用方法
----------------------
+---------------------------
 编译安装git 1.8：
 
 4.制作qcow2镜像
